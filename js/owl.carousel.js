@@ -1,14 +1,3 @@
-/*
- *	jQuery OwlCarousel v1.1
- *  
- *	Copyright (c) 2013 Bartosz Wojciechowski
- *	http://www.owlgraphic.com/owlcarousel
- *
- *	Licensed under MIT
- *
- */
-
-
 // Object.create function
 if ( typeof Object.create !== 'function' ) {
     Object.create = function( obj ) {
